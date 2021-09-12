@@ -1,0 +1,13 @@
+{
+  "name": "jest-getting-started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dientran",
+  "license": "MIT",
+  "scripts": {
+      "test": "jest"
+  }, 
+ "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
